@@ -1,0 +1,8 @@
+﻿author = Jerry
+version = 0.1.1
+displayName = Leaf Tool
+hideCode = true
+hideResources = true
+includeSource = true
+buildIgnore = *.csproj, *.user, obj\*, bin\*, .vs\*
+includePDB = true

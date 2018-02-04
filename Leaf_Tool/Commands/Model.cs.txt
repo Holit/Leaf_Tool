@@ -1,0 +1,42 @@
+﻿using Terraria;
+using Terraria.ID;
+using Terraria.ModLoader;
+using System;
+
+namespace Leaf_Tool.Commands
+{
+	public class Cmd : ModCommand
+	{
+		public override CommandType Type
+		{
+			get { return CommandType.World; }
+		}
+
+		public override string Command
+		{
+			get { return "command"; }
+		}
+
+		public override string Usage
+		{
+			get { return "/cmd"; }
+		}
+
+		public override string Description 
+		{
+			get { return "..."; }
+		}
+
+		public override void Action(CommandCaller caller, string input, string[] args)
+		{
+            if (args.Length == 1)
+            {
+
+            }
+            else if(args.Length == 0)
+            {
+
+            }
+		}
+	}
+}
