@@ -4,7 +4,7 @@
 中文
 -------
 * 目的
-Terraria的一个mod，帮助玩家编辑游戏和调试mod
+ * Terraria的一个mod，帮助玩家编辑游戏和调试mod
 * 平台要求
   * 运行平台
     * Terraria 1.3.5.3
@@ -27,7 +27,7 @@ Module tool
 English - Translated by Google(R)
 -------
 * Purpose
-A mod of Terraria that helps players edit games and debug mods
+ * A mod of Terraria that helps players edit games and debug mods
 * Platform requirements
   * Operating platform
     * Terraria 1.3.5.3
